@@ -1,0 +1,5 @@
+pywin32==303
+pdf2docx==0.5.5
+openpyxl==3.0.10
+python-pptx==0.6.21
+argparse==1.4.0
